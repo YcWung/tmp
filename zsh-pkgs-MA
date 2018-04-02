@@ -1,0 +1,6 @@
+extra/zsh 5.4.2-2 [installed: 5.4.2-1]
+community/manjaro-zsh-config 0.9-1 [installed: 0.8-1]
+community/zsh-autosuggestions 0.4.2-1 [installed: 0.4.0-2]
+community/zsh-completions 0.27.0-1 [installed: 0.26.0-1]
+community/zsh-history-substring-search 1.0.1-1 [installed: 1.0.0-1]
+community/zsh-syntax-highlighting 0.6.0-1 [installed]
